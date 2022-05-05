@@ -1,4 +1,20 @@
-## Hi there 👋
+This repository contains all the modules needed for the SMART project at INSA Lyon
+
+## WebApp
+The complete application is in this repository.
+
+## SPEECHTEXT
+Contains different tries using APIs to get the transcription of the microphone stream in live.
+
+## LSFIA
+Contains the neural network to recognize the different signs
+
+## Grammar
+Contains the algorithm to translate the grammar of the sign language into a french grammar
+
+
+
+
 
 <!--
 
