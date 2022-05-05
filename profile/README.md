@@ -7,11 +7,10 @@ The complete application is in this repository.
 Contains different tries using APIs to get the transcription of the microphone stream in live.
 
 ## LSFIA
-Contains the neural network to recognize the different signs
+Contains the neural network to recognize the different signs.
 
 ## Grammar
-Contains the algorithm to translate the grammar of the sign language into a french grammar
-
+Contains the algorithm to translate Sign Language grammar into a French grammar.
 
 
 
